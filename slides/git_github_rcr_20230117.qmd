@@ -45,11 +45,11 @@ editor: source
 
 ## git 
 
-- Git is one of the most popular. There are other version control systems.  
+- Git is one of the most popular.   
 - Free open-source application
 - Scalable - works with any size project
     - Linux is a world-wide project, spanning time-zones and languages
-- Git is a file repository, or repo - repositories exist for many reasons
+- Git is a **file** repository, or repo
 - Git and GitHub are not the same thing.  Symbiotic cousins
 
 ## Track project directories 
@@ -106,7 +106,7 @@ editor: source
 ::::
 
 
-## Experimen6
+## Experiment
 
 \
 
@@ -153,7 +153,7 @@ editor: source
 - Other hubs already mentioned
     - but also Duke’s instance:  gitlab.oit.duke.edu
 
-## GitHub
+## GitHub - file distribution ++
 
 - A place to store and host git repositories
 
