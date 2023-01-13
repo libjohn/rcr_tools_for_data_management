@@ -162,7 +162,7 @@ editor: source
   - Project management
       - Access control, task lists, bug tracking, wiki documentation, Kanban planning
       
-## How does this work
+## GitHub - mini case study
 
 - Clone my repo (or Fork) [difference? permissions!]
 - My repo is public
