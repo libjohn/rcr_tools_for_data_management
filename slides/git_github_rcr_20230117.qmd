@@ -25,7 +25,23 @@ editor: source
 
 ## Version control
 
+:::: {.columns}
+
+::: {.column width="50%"}
+
 - Manage how computers files change over time
+
+:::
+
+::: {.column width="50%"}
+
+\
+<br/>
+
+![](images/Project Foundation Pyramid_v2.svg)
+
+:::
+::::
 
 ## git 
 
@@ -36,36 +52,86 @@ editor: source
 - Git is a file repository, or repo - repositories exist for many reasons
 - Git and GitHub are not the same thing.  Symbiotic cousins
 
-## Track how and project directories change
+## Track project directories 
 
 :::: {.columns}
 
-::: {.column width="60%"}
+::: {.column width="50%"}
+
+\
+<br/>
 
 - Tell the story of your project
 - Who, What, and When files change.  (and Why, How)
-    
+
+
 :::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
     
 ![](images/versioning.png)
+
+![](images/commit_message.png)
 
 :::
 
 ::::
 
+## Jargon
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+**Commit** - ascribe the WWWWH values to the storyline
+
 - In this way we 
     - Can tell the story of our project
     - Time-travel – rolling-back to an earlier state of the entire project
 
-## Experiment
+[See Also: Push; Pull; Pull-Request; Remote; Branch; et. al.]{.muted}
+    
+:::
+
+::: {.column width="30%"}
+    
+![](images/time_travel.png)
+\
+<br/>
+
+![](images/time_travel_hash.png)
+
+:::
+
+::::
+
+
+## Experimen6
+
+\
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
 
 - Through a feature called a branch
 - Make replica copies of the git repo
 - Alter and experiment 
 - Merge (or delete) the branch
 - dev/prod
+
+:::
+
+::: {.column width="40%"}
+
+\
+
+![](images/branch.png)
+
+:::
+
+::::
 
 ## File types
 
